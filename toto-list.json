@@ -1,0 +1,46 @@
+{
+    "0": {
+        "language": "HTML",
+        "done": false
+    },
+    "1": {
+        "language": "CSS",
+        "done": false
+    },
+    "2": {
+        "language": "Javascript",
+        "done": false
+    },
+    "3": {
+        "language": "PHP",
+        "done": false
+    },
+    "4": {
+        "language": "Vuejs",
+        "done": false
+    },
+    "5": {
+        "language": "jQuery",
+        "done": false
+    },
+    "6": {
+        "language": "Laravel",
+        "done": "false"
+    },
+    "8": {
+        "language": "Symfony",
+        "done": "false"
+    },
+    "9": {
+        "language": "ReactJS",
+        "done": false
+    },
+    "10": {
+        "language": "AngularJs",
+        "done": false
+    },
+    "12": {
+        "language": "Svelte",
+        "done": false
+    }
+}
